@@ -1,9 +1,9 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.yunemoz.link",
-    "sha256_cert_fingerprints":
-    ["C5:40:5A:40:6E:FB:B5:6A:B8:47:B0:6D:C7:97:0E:C2:FE:70:AF:51:3E:E9:BF:7D:DF:3C:06:14:46:D4:ED:63"]
-  }
-}]
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yunemoz.link",
+      "sha256_cert_fingerprints":
+      ["C5:40:5A:40:6E:FB:B5:6A:B8:47:B0:6D:C7:97:0E:C2:FE:70:AF:51:3E:E9:BF:7D:DF:3C:06:14:46:D4:ED:63"]
+    }
+  }]
